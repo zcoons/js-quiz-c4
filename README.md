@@ -2,7 +2,7 @@
 
 ## Description
 
-This Timed Quiz was created for testing your JS knowledge in a gamified way, using a timer and points.
+This Timed Quiz was created for testing your JS knowledge in a gamified way, using a timer and points. Work in progress.
 
 
 ## Installation
